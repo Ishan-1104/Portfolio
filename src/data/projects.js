@@ -12,7 +12,7 @@ export const aimlFeatured = [
     demo: "https://tripmate-a.streamlit.app",
     demoLabel: "tripmate-a.streamlit.app",
     embeddable: false, // Streamlit blocks iframe embedding
-    image: "./public/TripMate-AI.png",
+    image: "/TripMate-AI.png",
   },
   {
     title: "Research Mind AI",
@@ -28,7 +28,7 @@ export const aimlFeatured = [
     demo: "https://research-mind-18.streamlit.app/",
     demoLabel: "research-mind-18.streamlit.app",
     embeddable: false, // Streamlit blocks iframe embedding
-    image: "./public/Research-Mind-AI.png",
+    image: "/Research-Mind-AI.png",
   },
   {
     title: "AI Video Assistant",
@@ -43,7 +43,7 @@ export const aimlFeatured = [
     demo: "https://video-agent-18.streamlit.app",
     demoLabel: "video-agent-18.streamlit.app",
     embeddable: false, // Streamlit blocks iframe embedding
-    image: "./public/AI-Video-Assistant.png",
+    image: "/AI-Video-Assistant.png",
   },
 ]
 
@@ -55,7 +55,7 @@ export const aimlCompact = [
     metric: "500K+ movies · sub-500ms",
     github: "https://github.com/Ishan-1104/CineAI",
     demo: "https://cineai-6ygv.onrender.com",
-    image: "./public/Cine-ai.png",
+    image: "/Cine-ai.png",
   },
   {
     title: "Multi-Disease Prediction System",
@@ -64,7 +64,7 @@ export const aimlCompact = [
     metric: "~80% accuracy · <2s inference",
     github: "https://github.com/Ishan-1104/multi-diseases",
     demo: "https://multi-diseases-xahsafbhcqcsgfpvpkqgu2.streamlit.app/",
-    image: "./public/Multi-disease.png",
+    image: "/Multi-disease.png",
   },
   {
     title: "Resume Parser",
@@ -73,7 +73,7 @@ export const aimlCompact = [
     metric: "~85% accuracy · <2s latency",
     github: null,
     demo: "https://resume-parser-iiuu.onrender.com/",
-    image: "./public/Resume-parser.png",
+    image: "/Resume-parser.png",
   },
   {
     title: "RAG Chatbot",
@@ -82,7 +82,7 @@ export const aimlCompact = [
     metric: null,
     github: "https://github.com/Ishan-1104/RAG",
     demo: null,
-    image: "./public/Rag-chat.png",
+    image: "/Rag-chat.png",
   },
 ]
 
