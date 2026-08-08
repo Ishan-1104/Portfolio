@@ -64,7 +64,7 @@ export const aimlCompact = [
     metric: "~80% accuracy · <2s inference",
     github: "https://github.com/Ishan-1104/multi-diseases",
     demo: "https://multi-diseases-xahsafbhcqcsgfpvpkqgu2.streamlit.app/",
-    image: "/Multi-disease.png",
+    image: "/Multi-Disease.png",
   },
   {
     title: "Resume Parser",
@@ -73,7 +73,7 @@ export const aimlCompact = [
     metric: "~85% accuracy · <2s latency",
     github: null,
     demo: "https://resume-parser-iiuu.onrender.com/",
-    image: "/Resume-parser.png",
+    image: "/Resume-Parser.png",
   },
   {
     title: "RAG Chatbot",
